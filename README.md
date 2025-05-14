@@ -26,3 +26,8 @@ This is a simple command-line coffee machine simulator built with Object-Oriente
 ├── coffee_maker.py # Coffee making logic & resource tracking
 ├── money_count.py # Coin processing & profit tracking
 └── get_coffee.py # Main program loop
+
+Acknowledgments: 
+- Adapted from “100 Days of Code: The Complete Python Pro Bootcamp” by Dr. Angela Yu on Udemy  
+- Source: https://www.udemy.com/course/100-days-of-code/?couponCode=CP130525#instructor-1
+- Modifications © 2025 tabassum_an, licensed under MIT
